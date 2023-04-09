@@ -2,29 +2,42 @@
 
 ## About Me
 
-I'm a React Developer with expertise in frontend development. I have a keen eye for design and a passion for building user-friendly interfaces. I have developed a strong understanding of modern web development principles and technologies.
+I'm a skilled React JS developer with a passion for creating beautiful and intuitive user interfaces. I have 2+ years of experience building complex web applications and working with cutting-edge technologies.
+
+My areas of expertise include:
+
+- Developing reusable React components and libraries
+- Managing state in complex applications with Redux
+- Building performant and scalable web applications
+- Integrating with third-party APIs and services
+- Debugging and troubleshooting complex issues
 
 ## Skills
 
 - React.js
-- HTML
-- CSS
-- JavaScript
-- Responsive Design
-- Cross-Browser Compatibility
+- Redux
+- HTML/CSS
+- JavaScript/ES6+
+- REST APIs
+- Git
+- Agile/Scrum
+- Unit Testing
 
 ## Experience
 
-I have experience developing complex web applications using React.js and other frontend frameworks. I have a proven track record of delivering high-quality code that meets business requirements.
+Here are a few highlights of my experience as a React JS developer:
+
+- Developed my [portfolio](https://prakash-agrahari.vercel.app/) that helped to showcase my skills and to brush my React skills.
+- Built a [Component Library (Pencil UI)](https://pencil-ui.netlify.app/) that helped me to refine my raw HTML and CSS skills and also it gave me satisfaction that I have created my own library with predefined CSS-classes just like another bootstrap.
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Here are a few projects that I've worked on recently:
 
-- https://github.com/prakash855/portfolio_neog
-- https://github.com/prakash855/Pencil-UI
-- https://github.com/prakash855/eBazaar
+- [Portfolio](https://prakash-agrahari.vercel.app/)
+- [Component Library (Pencil UI ✏️](https://pencil-ui.netlify.app/)
+- [E-Commerce (e-bazaar)](https://ebazaar.netlify.app/)
 
 ## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prakash-agrahari-a5655312b/) if you have any questions or want to collaborate on a project. I'm always open to new opportunities to grow my skills and make an impact in the world of web development.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prakash-agrahari-a5655312b/) if you have any questions or want to discuss a project. I'm always looking for new challenges and opportunities to grow my skills as a React JS developer.
