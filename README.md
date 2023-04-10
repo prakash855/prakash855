@@ -35,7 +35,7 @@ Here are a few highlights of my experience as a React JS developer:
 Here are a few projects that I've worked on recently:
 
 - [Portfolio](https://prakash-agrahari.vercel.app/)
-- [Component Library (Pencil UI ✏️)](https://pencil-ui.netlify.app/)
+- [Component Library (Pencil UI) ✏️](https://pencil-ui.netlify.app/)
 - [E-Commerce (e-bazaar)](https://ebazaar.netlify.app/)
 
 ## Contact Me
