@@ -1,6 +1,6 @@
 # Hi there, I'm Prakash Agrahari 👋
 
-## Github Stats
+## Github Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash855&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
