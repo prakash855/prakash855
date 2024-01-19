@@ -1,5 +1,7 @@
 # Hi there, I'm Prakash Agrahari 👋
 
+## Github Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash855&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -61,8 +63,6 @@ Here are a few projects that I've worked on recently:
 - [Component Library (Pencil UI) ✏️](https://pencil-ui.netlify.app/)
 - [E-Commerce (e-bazaar)](https://ebazaar.netlify.app/)
 
-## Github Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
