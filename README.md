@@ -3,6 +3,9 @@
 ## Github Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash855&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## About Me
 
 I'm a skilled React JS developer with a passion for creating beautiful and intuitive user interfaces. I have 3+ years of experience building complex web applications and working with cutting-edge technologies.
