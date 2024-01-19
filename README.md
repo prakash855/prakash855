@@ -69,3 +69,7 @@ Here are a few projects that I've worked on recently:
 ## Contact Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prakash-agrahari-a5655312b/) if you have any questions or want to discuss a project. I'm always looking for new challenges and opportunities to grow my skills as a React JS developer.
+
+### Support Me
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/prakash855?logo=github&style=social)](https://github.com/sponsors/prakash855)
