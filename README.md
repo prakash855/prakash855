@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a skilled React JS developer with a passion for creating beautiful and intuitive user interfaces. I have 2+ years of experience building complex web applications and working with cutting-edge technologies.
+I'm a skilled React JS developer with a passion for creating beautiful and intuitive user interfaces. I have 3+ years of experience building complex web applications and working with cutting-edge technologies.
 
 My areas of expertise include:
 
@@ -14,14 +14,14 @@ My areas of expertise include:
 
 ## Skills
 
-- React.js
-- Redux
-- HTML/CSS
-- JavaScript/ES6+
-- REST APIs
-- Git
-- Agile/Scrum
-- Unit Testing
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat)
+![JavaScript/ES6+](https://img.shields.io/badge/-JavaScript%2FES6%2B-yellow?style=flat)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-76D04B?style=flat)
+![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-4D4D4D?style=flat)
 
 ## Experience
 
