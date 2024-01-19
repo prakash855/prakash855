@@ -22,6 +22,17 @@ My areas of expertise include:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-76D04B?style=flat)
 ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-4D4D4D?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-2E2E2E?style=flat)
+![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35bdb2?style=flat)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white&style=flat)
+![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
 ## Experience
 
