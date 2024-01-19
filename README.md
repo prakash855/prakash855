@@ -18,8 +18,8 @@ My areas of expertise include:
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/prakash-agrahari-a5655312b/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Website](https://img.shields.io/badge/-Website-44cc11)]([https://yourwebsite.com](https://prakash-agrahari.vercel.app/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/PrakashAgrahar3))
+[![Website](https://img.shields.io/badge/-Website-44cc11)](https://prakash-agrahari.vercel.app/))
 
 ## Skills
 
