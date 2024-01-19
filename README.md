@@ -1,9 +1,5 @@
 # Hi there, I'm Prakash Agrahari 👋
 
-## Github Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash855&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## About Me
 
@@ -65,6 +61,13 @@ Here are a few projects that I've worked on recently:
 
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
+## Github Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash855&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact Me
 
