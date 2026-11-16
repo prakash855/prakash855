@@ -15,21 +15,17 @@ Building scalable, high-performance web applications with modern JavaScript tech
 ---
 
 ## 🚀 About Me
+Senior Frontend-focused Full Stack (MERN) Developer with 5.5+ years of experience building scalable, enterprise-grade web applications.
 
-I'm a **Senior Full Stack (MERN) Developer** with **5.5+ years** of experience building scalable, enterprise-grade web applications.
+I specialize in modern frontend development with React.js, Next.js, and TypeScript, and I build secure backend services with Node.js, Express.js, and MongoDB (plus Python/FastAPI). Most recently I worked on enterprise applications, REST APIs, production support, and performance optimization for a global client. I'm also building AI-integrated apps, including a local LLM project with Ollama.
 
-I specialize in developing modern frontend applications using **React.js, Next.js, and TypeScript**, while also building secure backend services using **Node.js, Express.js, and MongoDB**.
-
-Currently, I work on enterprise applications, REST APIs, production support, and performance optimization for global clients.
-
-### Highlights
-
-- 💼 5.5+ Years of Professional Experience
-- 🚀 Delivered 30+ Production Features
-- ⚡ Improved application performance by up to **40%**
-- 🏢 Built Enterprise Applications from scratch
-- 🌍 Worked with Global Clients
-- 🔥 Immediate Joiner
+## ✨ Highlights
+- 💼 5.5+ years of professional experience
+- 🚀 Delivered 30+ production features
+- ⚡ Improved application performance by up to 40%
+- 🏢 Built enterprise applications from scratch
+- 🌍 Worked with global clients
+- 🔥 Immediate joiner, open to Senior Frontend / React / MERN roles (Gurugram, Noida, Delhi NCR)
 
 ---
 
@@ -57,8 +53,17 @@ Currently, I work on enterprise applications, REST APIs, production support, and
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
+
+### AI (Learning & Building)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -76,20 +81,37 @@ Currently, I work on enterprise applications, REST APIs, production support, and
 
 # 🏢 Professional Experience
 
-### ITC Infotech
+### ITC Infotech — Associate IT Consultant
+*~2.5 years · Global enterprise client*
 
-**Senior Full Stack Developer**
-
-- Developed enterprise-scale applications.
-- Built secure REST APIs.
-- Developed scalable React.js & Next.js applications.
-- Worked on production support.
-- Improved application performance by **40%**.
-- Collaborated with global clients.
+- Built and maintained enterprise-scale web applications with React.js, Next.js, and TypeScript.
+- Developed secure REST APIs with Node.js, Express.js, and MongoDB.
+- Handled production support and resolved live issues.
+- Improved application performance by **up to 40%**.
+- Collaborated with global stakeholders and delivered 30+ production features.
 
 ---
 
 # 🚀 Featured Projects
+
+## 🤖 MERN AI Monster
+
+A local AI chat application that runs LLMs on my own machine.
+
+- Express backend integrated with Ollama
+- React client
+- No external API dependency
+
+---
+
+## 🧩 JobApply Automator
+
+A Chrome extension (Manifest V3) that autofills job application forms.
+
+- React + Vite
+- Handles education, screening questions, and custom dropdowns
+
+---
 
 ## 📝 eNotes MERN
 
@@ -123,7 +145,7 @@ A reusable React Component Library inspired by Material UI.
 
 Personal Portfolio showcasing projects, blogs and experience.
 
-🌐 https://prakash-agrahari.vercel.app/
+🌐 https://prakashdev.netlify.app/
 
 ---
 
@@ -131,7 +153,7 @@ Personal Portfolio showcasing projects, blogs and experience.
 
 ![](https://github-readme-stats.vercel.app/api?username=prakash855&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prakash855&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=prakash855&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash855&layout=compact&theme=tokyonight)
 
@@ -139,7 +161,7 @@ Personal Portfolio showcasing projects, blogs and experience.
 
 # 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://prakash-agrahari.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify)](https://prakashdev.netlify.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakash-agrahari-a5655312b/)
 
